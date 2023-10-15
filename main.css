@@ -1,0 +1,32 @@
+body {
+  color: cyan ;
+}
+
+.puppyimg {
+  size: 400px;
+}
+
+.centering {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.outerBox {
+ 
+  margin: 5px;
+  padding: 10px;
+  
+}
+
+.btnAlign {
+  margin: auto;
+  padding-top: 50px;
+
+}
+
+.btn-primary { 
+  color: black;
+  border: none;
+  background-color: cyan;
+}
